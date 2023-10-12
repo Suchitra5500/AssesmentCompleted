@@ -1,2 +1,2 @@
 # AssesmentCompleted
-Assesment og the CloudVandana completed
+Assesment of the CloudVandana completed
