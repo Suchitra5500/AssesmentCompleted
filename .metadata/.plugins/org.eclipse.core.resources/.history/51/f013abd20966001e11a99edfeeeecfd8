@@ -1,0 +1,16 @@
+package assignment.ty;
+
+import java.util.Scanner;
+
+public class Shuffle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner ip=new Scanner(System.in);
+		int size=ip.nextInt();
+		int[] arr=new int[size];
+		
+
+	}
+
+}
